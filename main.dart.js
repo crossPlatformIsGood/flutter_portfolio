@@ -58836,7 +58836,7 @@ A.Dr.prototype={
 U(a){var s,r,q,p=null,o="Experience",n="Full Stack Software Engineer",m="Education",l="Bachelor's Degree, Computer Science",k="Southwest Jiaotong University",j=t.w,i=A.bu(a,p,j).w.a.a,h=A.amk(2019,3,13,0,0,0,0,0,!1)
 if(h==null)h=864e14
 if(h===864e14)A.an(A.d4("(2019, 3, 13, 0, 0, 0, 0, 0)",p))
-s=""+(A.a84(new A.dI(Date.now(),0,!1))-A.a84(new A.dI(h,0,!1)))+" years of working"
+s=""+(A.a84(new A.dI(Date.now(),0,!1))-A.a84(new A.dI(h,0,!1)))+" years"
 if(i>=1024){h=t.E
 h=A.nR(A.c([B.jB,new A.dc(B.yn,A.nR(A.c([A.cS(A.c([A.nR(A.c([new A.hY(o,s,n,B.yS,p),B.dN,B.v9],h),B.I,B.aA,B.aB),B.dN,A.DP(B.LR,p,A.bu(a,B.av,j).w.a.a*0.36)],h),B.a5)],h),B.I,B.aA,B.aB),p)],h),B.a5,B.cT,B.aB)
 j=h}else{h=i>=600
